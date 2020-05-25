@@ -1,5 +1,6 @@
 Tic- Tac- Toe Game
 
+Game Link : https://therealbaobao.github.io/Tic-Tac-Toe-Game/
 The project was created by Linfeng Bao, you could call me Henry. 
 My github link is https://github.com/TheRealBaoBao
 
